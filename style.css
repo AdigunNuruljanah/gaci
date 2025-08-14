@@ -94,7 +94,7 @@
         }
         .heading-1{
             height: 180px;
-            background-color: black;
+            background-color: rgb(12, 171, 52);
             color: white;
         }
         .heading-1 p{
@@ -107,3 +107,8 @@
             font-size: 1.2rem;
         }
         }
+@media(max-width:351px){
+ div.heading-1 h1{
+    font-size:0.98rem;
+ }
+}
